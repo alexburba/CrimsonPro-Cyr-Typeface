@@ -1,17 +1,17 @@
 # CrimsonPro-Cyr-Typeface
 
-A cyrillic version of the original [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) typeface
+A cyrillic fork of the original [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) typeface. The main focus is to add cyrillic -).
 
-Styles:
-— Regular
-— Italic
-— Extrabold
+This typeface has next styles:
+- Regular
+- Italic
+- Extrabold
 
 Added language support:
 - Russian
 - Belorussian
-- Ukrainian (missing a few glyphs) 
+- Ukrainian 
 
-Future plans for languages:
-- Serbian
-- Bulgarian
+Future plans:
+- Serbian (2025)
+- Bulgarian (2025)
