@@ -12,11 +12,7 @@
 
 # Examples
 
-Bold
-![image](https://github.com/user-attachments/assets/01ed8369-64a8-4571-a86c-a64962687aec)
-![image](https://github.com/user-attachments/assets/db6ed87d-e13e-4257-8d64-5e0266d2549a)
-![image](https://github.com/user-attachments/assets/c0c3d158-d49c-42d7-8a6b-dc5a18587945)
-![image](https://github.com/user-attachments/assets/d8e21a26-893c-4b18-815e-b16efe830600)
+
 
 Regular
 ![image](https://github.com/user-attachments/assets/53df1bee-b488-49ff-a87e-07a047052330)
@@ -24,4 +20,8 @@ Regular
 ![image](https://github.com/user-attachments/assets/8f6b7a7f-44c0-4d02-baa3-fd12be9a2f41)
 ![image](https://github.com/user-attachments/assets/4f675bb2-b161-41a1-901b-fab0465f6e2c)
 
-
+Bold
+![image](https://github.com/user-attachments/assets/01ed8369-64a8-4571-a86c-a64962687aec)
+![image](https://github.com/user-attachments/assets/db6ed87d-e13e-4257-8d64-5e0266d2549a)
+![image](https://github.com/user-attachments/assets/c0c3d158-d49c-42d7-8a6b-dc5a18587945)
+![image](https://github.com/user-attachments/assets/d8e21a26-893c-4b18-815e-b16efe830600)
