@@ -21,7 +21,14 @@ Regular
 ![image](https://github.com/user-attachments/assets/8f6b7a7f-44c0-4d02-baa3-fd12be9a2f41)
 ![image](https://github.com/user-attachments/assets/4f675bb2-b161-41a1-901b-fab0465f6e2c)
 
-Bold
+Italic
+![image](https://github.com/user-attachments/assets/c9244ebb-2977-409a-94b3-ca1f8ddda331)
+![image](https://github.com/user-attachments/assets/4ef25e3e-0260-4438-8e01-a74ac892b10a)
+![image](https://github.com/user-attachments/assets/e48cca52-9aa7-4418-a77e-4ee00fb7ac3f)
+![image](https://github.com/user-attachments/assets/ace759ea-bda6-4575-89b2-1ff3d83fb2ec)
+
+
+ExtraBold
 ![image](https://github.com/user-attachments/assets/01ed8369-64a8-4571-a86c-a64962687aec)
 ![image](https://github.com/user-attachments/assets/db6ed87d-e13e-4257-8d64-5e0266d2549a)
 ![image](https://github.com/user-attachments/assets/c0c3d158-d49c-42d7-8a6b-dc5a18587945)
