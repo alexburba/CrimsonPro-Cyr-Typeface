@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/7aa200fd-c440-467c-8b3b-ee2215a624d6)
 - Crimson Pro Cyrillic is a cyrillic fork of [Crimson Pro](https://github.com/Fonthausen/CrimsonPro)
 - **Languages added:** Russian, Belorusian, Ukrainian
-- **Styles:** Regular (100%), Italic (70%) and Extrabold (100%)
+- **Styles:** Regular (100%), Italic (100%) and Extrabold (100%)
 - **Kerning:** 5%
 - **Plans (maybe):** Serbian & Bulgarian cyrillic, a proper kerning for all the cyrillics
 - License SIL 1.1
