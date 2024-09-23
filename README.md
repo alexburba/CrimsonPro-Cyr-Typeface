@@ -13,6 +13,7 @@
 
 # Examples
 
+![image](https://github.com/user-attachments/assets/5bc51542-019c-4b36-adc4-cd761641b4d4)
 
 
 Regular
@@ -22,7 +23,6 @@ Regular
 ![image](https://github.com/user-attachments/assets/4f675bb2-b161-41a1-901b-fab0465f6e2c)
 ![image](https://github.com/user-attachments/assets/f345f0cb-fc63-4317-b1f2-4c97f96bcd11)
 
-
 Italic
 ![image](https://github.com/user-attachments/assets/c9244ebb-2977-409a-94b3-ca1f8ddda331)
 ![image](https://github.com/user-attachments/assets/4ef25e3e-0260-4438-8e01-a74ac892b10a)
@@ -31,11 +31,16 @@ Italic
 ![image](https://github.com/user-attachments/assets/7925912e-3394-4638-9a43-342be32b3cff)
 
 
-
 ExtraBold
 ![image](https://github.com/user-attachments/assets/01ed8369-64a8-4571-a86c-a64962687aec)
 ![image](https://github.com/user-attachments/assets/db6ed87d-e13e-4257-8d64-5e0266d2549a)
 ![image](https://github.com/user-attachments/assets/c0c3d158-d49c-42d7-8a6b-dc5a18587945)
 ![image](https://github.com/user-attachments/assets/d8e21a26-893c-4b18-815e-b16efe830600)
 ![image](https://github.com/user-attachments/assets/e22623ae-658e-4a3a-8d44-d050d4b98860)
+
+Font in use
+![image](https://github.com/user-attachments/assets/db694b01-a225-40c4-b91b-6dbb30aef0ef)
+![image](https://github.com/user-attachments/assets/05bcc7bd-eec2-41da-a202-ea24f6e3ae76)
+![image](https://github.com/user-attachments/assets/e98362f0-ee2e-4212-a935-c6d0c07ff9e7)
+
 
