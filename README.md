@@ -39,8 +39,9 @@ ExtraBold
 
 
 Font in use
-![image](https://github.com/user-attachments/assets/db694b01-a225-40c4-b91b-6dbb30aef0ef)
-![image](https://github.com/user-attachments/assets/05bcc7bd-eec2-41da-a202-ea24f6e3ae76)
-![image](https://github.com/user-attachments/assets/e98362f0-ee2e-4212-a935-c6d0c07ff9e7)
+![image](https://github.com/user-attachments/assets/bc1ef780-92c7-42fe-9a86-f108f94522f6)
+![image](https://github.com/user-attachments/assets/4263c973-9dc7-4762-a38d-0a460ff408fd)
+![image](https://github.com/user-attachments/assets/7e04ca01-9026-489a-ab01-2f71865e0b78)
+
 
 
