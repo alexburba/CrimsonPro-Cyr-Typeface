@@ -22,6 +22,7 @@ Crimson Pro Cyrillic is a cyrillic fork of [Crimson Pro](https://github.com/Font
 ![image](https://github.com/user-attachments/assets/53df1bee-b488-49ff-a87e-07a047052330)
 ![image](https://github.com/user-attachments/assets/46543a53-e627-4b35-a6bb-88afa9eff063)
 ![image](https://github.com/user-attachments/assets/8f6b7a7f-44c0-4d02-baa3-fd12be9a2f41)
+![Screenshot 2026-01-01 at 18 12 57](https://github.com/user-attachments/assets/75b0504a-66ac-4c36-ba05-39687912e0a6)
 ![image](https://github.com/user-attachments/assets/4f675bb2-b161-41a1-901b-fab0465f6e2c)
 
 
