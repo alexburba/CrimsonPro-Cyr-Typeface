@@ -5,12 +5,12 @@
 
 Crimson Pro Cyrillic is a cyrillic fork of [Crimson Pro](https://github.com/Fonthausen/CrimsonPro)
 
-- **Languages added:** Russian, Belorusian, Ukrainian
+- **Languages added:** Russian, Belorusian, Ukrainian, Serbian (regular only)
 - **Styles:** Regular (100%), Italic (100%) and Extrabold (100%)
-- **Kerning:** 5%
+- **Kerning:** 50%
 - **Plans (maybe):** Serbian & Bulgarian cyrillic, a proper kerning for all the cyrillics
 - **License** SIL 1.1
-- **In russian:** это версия Crimson Pro с добавленной кириллицей (RU, BY, UA) для начертаний Regular, Italic и Extrabold. Может быть добавлю сербскую и болгарскую кириллицу в будущем, ну и кернинг. Пока же кернинг сделал только для пар, что бросались в глаза по ходу работы, но не более. 
+- **In russian:** это версия Crimson Pro с добавленной кириллицей (RU, BY, UA and SRB for Regular) для начертаний Regular, Italic и Extrabold. Может быть добавлю сербскую и болгарскую кириллицу в будущем, ну и нормальный кернинг.
 
 # Examples
 
